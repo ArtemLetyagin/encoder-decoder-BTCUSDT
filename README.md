@@ -1,7 +1,7 @@
 # encoder-decoder-BTCUSDT
 
 This repository is dedicated to the application of the seq2seq model (which are commonly used in text translation) to predict the behavior of the cryptocurrency price.
-![img](https://github.com/ArtemLetyagin/encoder-decoder-BTCUSDT/edit/main/img.png)
+![img](https://github.com/ArtemLetyagin/encoder-decoder-BTCUSDT/blob/main/img.png)
 
 Structure
 ------------
